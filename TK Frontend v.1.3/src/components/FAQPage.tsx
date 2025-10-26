@@ -75,8 +75,8 @@ export function FAQPage({ onNavigate }: FAQPageProps) {
         en: 'Are there age restrictions?'
       },
       answer: {
-        sr: 'Ograničenja po godinama zavise od specifičnog događaja. Informacije o ograničenjima možete naći na stranici događaja. Deca ispod 12 godina često imaju popust ili besplatan ulaz.',
-        en: 'Age restrictions depend on the specific event. You can find restriction information on the event page. Children under 12 often have discounts or free entry.'
+        sr: 'Ograničenja po godinama zavise od specifičnog događaja. Informacije o ograničenjima možete naći na stranici događaja.',
+        en: 'Age restrictions depend on the specific event. You can find restriction information on the event page.'
       }
     }
   ];
