@@ -47,28 +47,6 @@ export function FAQPage({ onNavigate }: FAQPageProps) {
       }
     },
     {
-      id: 'refund',
-      question: {
-        sr: 'Mogu li da dobijem povrat novca?',
-        en: 'Can I get a refund?'
-      },
-      answer: {
-        sr: 'Povrat novca je moguć do 48 sati prije početka događaja. Za povrat kontaktirajte našu korisničku podršku na email ili telefon. Refundacija se vrši na isti način plaćanja.',
-        en: 'Refunds are possible up to 48 hours before the event start. For refunds, contact our customer support via email or phone. Refunds are processed to the original payment method.'
-      }
-    },
-    {
-      id: 'change',
-      question: {
-        sr: 'Mogu li da izmijenim ili prebacim karte?',
-        en: 'Can I change or transfer tickets?'
-      },
-      answer: {
-        sr: 'Izmjene karata su moguće ovisno o dostupnosti i tipу karte. Kontaktirajte našu podršku barem 24 sata prije događaja. Neke karte imaju ograničenja za prebacivanje.',
-        en: 'Ticket changes are possible depending on availability and ticket type. Contact our support at least 24 hours before the event. Some tickets have transfer restrictions.'
-      }
-    },
-    {
       id: 'age',
       question: {
         sr: 'Da li postoje ograničenja po godinama?',
